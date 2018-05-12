@@ -1,10 +1,16 @@
 _repo: Jersey-City-and-its-Historic-Sites_47936
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47936-h/images/cover.jpg
 creator:
   author:
     agent_name: Eaton, Harriet Phillips
     gutenberg_agent_id: '44531'
     url: http://www.gutenberg.org/2009/agents/44531
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47936#Jersey-City-and-its-Historic-Sites
 gutenberg_issued: '2015-01-10'
 gutenberg_type: Text
 identifiers:
